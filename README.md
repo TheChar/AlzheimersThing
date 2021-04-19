@@ -1,6 +1,6 @@
 # Alzheimers Thing
 ## A cost-effective solution to a pricey product line
-###### Developed by Adam Riekman, Tyler Avey, and Charlie Bergdall
+ Developed by Adam Riekman, Tyler Avey, and Charlie Bergdall
 
 ### Download Instructions:
 1. Click the green *Code* button above and select the *Download ZIP* option
